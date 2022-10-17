@@ -1,2 +1,2 @@
 # Practice
-Java 문법들을 연습한 Examples
+It is a repository of example codes for JAVA grammar.
